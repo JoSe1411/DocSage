@@ -1,4 +1,4 @@
-# PDF Q&A Bot
+# DocSage - A PDF Q&A Bot
 
 A powerful AI-powered PDF question-answering application built with Streamlit, Gemini, and FAISS. Upload PDF documents and ask questions to get intelligent answers based on the document content.
 
