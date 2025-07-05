@@ -34,7 +34,7 @@ A powerful AI-powered PDF question-answering application built with Streamlit, O
 4. **Set up environment variables**:
    Create a `.env` file in the root directory:
    ```env
-   GOOGLE_API_KEY=your_openai_api_key_here
+   GOOGLE_API_KEY=your_google_api_key_here
    DATABASE_URL=sqlite:///./dev.db
    ```
 
