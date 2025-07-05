@@ -6,7 +6,7 @@ A powerful AI-powered PDF question-answering application built with Streamlit, G
 
 - **Multi-PDF Support**: Upload and process multiple PDF documents
 - **Chat Sessions**: Organize conversations by topics with persistent chat history
-- **AI-Powered Q&A**: Uses OpenAI's GPT models with RAG (Retrieval-Augmented Generation)
+- **AI-Powered Q&A**: Uses Gemini's GPT models with RAG (Retrieval-Augmented Generation)
 - **Vector Search**: FAISS-based semantic search for accurate document retrieval
 - **Web Search Integration**: Supplement answers with web search results
 - **Document Management**: Add, remove, and organize documents within chat sessions
@@ -80,11 +80,10 @@ pdf-qa-bot/
 ## Technologies Used
 
 - **Streamlit**: Web application framework
-- **OpenAI API**: Language model for Q&A
+- **Google AI Studio API**: Language model for Q&A
 - **FAISS**: Vector similarity search
 - **SQLAlchemy**: Database ORM
 - **PyPDF2**: PDF text extraction
-- **DuckDuckGo Search**: Web search integration
 - **SQLite**: Local database storage
 
 ## Contributing
