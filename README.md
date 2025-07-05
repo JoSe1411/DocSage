@@ -101,5 +101,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Requirements
 
 - Python 3.8+
-- OpenAI API key
+- Google AI Studio API key
 - Internet connection for web search functionality 
